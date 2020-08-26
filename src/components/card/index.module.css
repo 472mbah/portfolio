@@ -1,0 +1,89 @@
+
+
+.container {
+    background: #FFFFFF;
+    padding:1em;
+    display: grid;
+    grid-gap: 1em;
+}
+
+.container:hover {
+    border: 1px solid #E9E9E9;
+    padding: calc(1em - 1px);
+    /* background: #f3f3f3; */
+    cursor: pointer;
+}
+
+
+.link {
+    font-family: rob_reg;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 13px; 
+    margin: 0; 
+    text-decoration: none;
+    color:#000  
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.header {
+    font-family: rob_reg;
+    font-style: bold;
+    font-size: 30px;
+    line-height: 30px;   
+    margin: 0; 
+}
+
+.description {
+    font-family: rob_reg;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    margin: 0;   
+}
+
+.mid_section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.mid_section_text_style {
+    font-family: rob_reg;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0;
+    margin-left: 0.2em;    
+}
+
+.tags_text {
+    font-family: rob_bold;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0;
+}
+
+.circle {
+    height: 1em;
+    width: 1em;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+
+.inner_mid_section {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    height:1em;
+    width: 1em;
+}

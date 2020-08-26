@@ -1,0 +1,12 @@
+.container {
+    position: relative;
+    box-sizing: border-box;
+    width: fit-content;
+    font-family: rob_reg, Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: row;
+    margin-right: 0;
+}
+
+
+
