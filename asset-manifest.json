@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f92ab982.chunk.css",
+    "main.js": "/portfolio/static/js/main.71cd21a8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.71cd21a8.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.7dabe899.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.7dabe899.js.map",
+    "static/js/2.885de9d6.chunk.js": "/portfolio/static/js/2.885de9d6.chunk.js",
+    "static/js/2.885de9d6.chunk.js.map": "/portfolio/static/js/2.885de9d6.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.af864635f3f28b5e1c75643c4e0b92b7.js": "/portfolio/precache-manifest.af864635f3f28b5e1c75643c4e0b92b7.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.f92ab982.chunk.css.map": "/portfolio/static/css/main.f92ab982.chunk.css.map",
+    "static/js/2.885de9d6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.885de9d6.chunk.js.LICENSE.txt",
+    "static/media/index.module.css": "/portfolio/static/media/Roboto-Regular.11eabca2.ttf",
+    "static/media/github.png": "/portfolio/static/media/github.2467699c.png",
+    "static/media/link.svg": "/portfolio/static/media/link.e938def8.svg",
+    "static/media/linked_in.png": "/portfolio/static/media/linked_in.6d95de4c.png",
+    "static/media/location.png": "/portfolio/static/media/location.350bdaa1.png",
+    "static/media/time.svg": "/portfolio/static/media/time.9e132aec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dabe899.js",
+    "static/js/2.885de9d6.chunk.js",
+    "static/css/main.f92ab982.chunk.css",
+    "static/js/main.71cd21a8.chunk.js"
+  ]
+}
